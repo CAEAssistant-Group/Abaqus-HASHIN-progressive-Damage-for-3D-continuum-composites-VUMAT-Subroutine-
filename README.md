@@ -1,0 +1,2 @@
+# -Abaqus-HASHIN-progressive-Damage-for-3D-continuum-composites-VUMAT-Subroutine-
+Hashin criteria predict failure modes in composites based on stresses in fiber and matrix. While effective, implementing them in numerical simulations poses challenges. Abaqus addresses this but is limited to 2D plane stress. A VUMAT subroutine extends Abaqus to simulate 3D damage progression using the energy method for static and dynamic problems.
