@@ -9,4 +9,4 @@ Additionally, two workshops are included to guide you in practically defining th
 
 ![image](https://github.com/user-attachments/assets/c9cfe6f2-d5c3-4bcc-beb9-26def9ec03e8)
 
-**ℹ️ <font color="red">This is just a demo to show how the code is structured. For the full, working version, please visit our website.</font>**
+**ℹ️ This is just a demo to show how the code is structured. For the full, working version, please visit our website.**
