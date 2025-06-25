@@ -1,7 +1,8 @@
+C #This is just a demo to show how the code is structured. For the full, working version, please visit our website.#
 C                                                 ######################################################################
 C                                                 #################      CAE Assistant Company          ################
 C                                                 ##############         www CAEassistant com              #############
-C                                                 ###########   Copy right © 2021 by CAE Assistant Company    ##########
+C                                                 ###########   Copy right Â© 2021 by CAE Assistant Company    ##########
 C                                                 ###################################################################### 
 C                                                                         CAE Assisitant Services: 
 C                                                 Toturial Packages,Consultancy,Articles,Q&A,Video Gallery,Online Course
@@ -9,7 +10,7 @@ C                                                 ##############################
 C                                                                      Need help with your project? 
 C                                                   You can get initial free consultation from (Support@CAEassistant com)
 C                                                 ######################################################################  
-C                                                                      CAE Assistant  © All Rights Reserved
+C                                                                      CAE Assistant  Â© All Rights Reserved
       
       subroutine vumat(
 C Read only (unmodifiable)variables -
