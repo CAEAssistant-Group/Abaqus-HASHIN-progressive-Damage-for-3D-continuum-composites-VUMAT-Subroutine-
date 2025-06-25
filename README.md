@@ -8,5 +8,5 @@ In this Project, our focus is on the implementation of progressive damage, in co
 Additionally, two workshops are included to guide you in practically defining these models and even writing VUMAT subroutines. Some parts of the subroutine is uploaded here, while you can access the full project files in CAE ASSISTANT website.
 
 ![image](https://github.com/user-attachments/assets/c9cfe6f2-d5c3-4bcc-beb9-26def9ec03e8)
-> [!DANGER]
-> **ℹ️ <font color="red">This is just a demo to show how the code is structured. For the full, working version, please visit our website.</font>**
+
+**ℹ️ <font color="red">This is just a demo to show how the code is structured. For the full, working version, please visit our website.</font>**
